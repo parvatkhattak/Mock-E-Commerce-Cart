@@ -1,0 +1,7 @@
+project_id = "tgtozupywrobizpvcsco"
+
+[functions.cart-operations]
+verify_jwt = false
+
+[functions.checkout]
+verify_jwt = false
