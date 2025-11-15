@@ -1,10 +1,10 @@
-# Vibe Commerce - Full Stack E-Commerce Cart
+# Mock E-Commerce Cart
 
 A modern, full-stack e-commerce shopping cart application built for the Vibe Commerce coding assignment.
 
 ## 🚀 Live Demo
 
-**URL**:
+**URL**:https://mock-e-commerce-cart.vercel.app/
 
 ## 📋 Assignment Requirements
 
