@@ -155,7 +155,6 @@ products (id, name, description, price, image_url, category, stock)
 cart_items (id, product_id, quantity, session_id, created_at, updated_at)
 ```
 
-## 📊 API Documentation
 
 ### Cart Operations
 **Endpoint**: `/functions/v1/cart-operations`
